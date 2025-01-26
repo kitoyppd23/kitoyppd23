@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-**kitoyppd23/kitoyppd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Currently working as an Automation Test Engineer, primarily focusing on exploratory testing to support developers. My responsibilities include API testing using Postman and SOAP, as well as automating regression tests with Selenium.
 - 🌱 Currently studying the Spring Boot track on Alura while continuously improving my skills in test automation. I focus on keeping up to date with Cypress and Selenium, as well as exploring JavaScript interaction with JSON in Postman environments.
@@ -44,6 +38,6 @@ Here are some ideas to get you started:
   ### GitHub Status
   
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanneSilva&theme=dracula" style="max-width: 100%;" alt="Caue Lopes GitHub status">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanneSilva&&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitoyppd23&theme=dracula" style="max-width: 100%;" alt="Caue Lopes GitHub status">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoyppd23&&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;" alt="Top Languages">
 </div>
