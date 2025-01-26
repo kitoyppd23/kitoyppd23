@@ -32,7 +32,7 @@
 </p>
 
 ### Contact me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giovanne-silva-3b91aa197/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/caue-santos-lopes/)
   
   
   ### GitHub Status
